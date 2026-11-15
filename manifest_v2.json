@@ -2,15 +2,15 @@
   "item": {
     "id": "979806755310",
     "restype": "watchface",
-    "name": "[动态]芭卡洛儿",
+    "name": "芭卡洛儿-动态表盘",
     "description": "来自《重返未来：1999》中的芭卡洛儿\n无缝循环动画，醒目的数字时间，搭配海报式排版，每次抬腕，都像翻开一页晴天的画册。",
     "preview": [
-      "media/preview_01.webp",
+      "media/合成 3_1MB内.webp",
       "media/preview_02.jpg",
       "media/preview_03.jpg"
     ],
     "icon": "media/icon.png",
-    "cover": "media/cover.jpg",
+    "cover": "media/Frame 4 (2).png",
     "author": [
       {
         "name": "jawnd",
